@@ -1,3 +1,0 @@
-training-*.csv | https://www.kaggle.com/kazanova/sentiment140
-pos-neg.csv | https://www.kaggle.com/chaitanyarahalkar/positive-and-negative-sentences
-
