@@ -1,7 +1,6 @@
 contestant_judgment.csv
 demo_data.csv
 pos-neg.csv
-train-8mb.csv
 training-0.csv
 training-1.csv
 training-2.csv
